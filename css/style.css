@@ -209,6 +209,10 @@
     opacity: 1;
 }
 
+.pt-6,
+.py-6 {
+  padding-top: 5rem !important;
+}
 /* .about {
     padding-top: 48px;
     position: relative;
